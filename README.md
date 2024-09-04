@@ -4,5 +4,5 @@
 **Objective**:  Compare the results obtained from the analysis with another model developed during the course. \
 
 **Analysis authors**:
-*   Marcos Vyctor Fonseca Galupo - 2022.1.08.013
-*   Otávio Augusto Souza Martins - 2022.1.08.016
+*   Marcos Vyctor Fonseca Galupo - [Github Profile](https://github.com/marcosvgalupo)
+*   Otávio Augusto Souza Martins  - [Github Profile](https://github.com/otavioaugustosouzamartins)
